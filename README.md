@@ -8,8 +8,7 @@ Welcome to the **Gaming Website**! This project is a visually immersive gaming-t
 - **Tailwind CSS** – Modern, responsive, and utility-first styling.
 - **Interactive UI** – Engaging effects triggered by user interactions.
 
-## 📸 Preview
-![Website Preview](link-to-preview-image)
+
 
 ## 🛠️ Technologies Used
 - **Three.js** – For rendering 3D objects and scenes.
@@ -58,21 +57,7 @@ To run this project locally, follow these steps:
 - Scroll to trigger animations.
 - Explore different sections for a unique experience.
 
-## 💡 Customization
-- Modify `src/scenes/` to add or change 3D objects.
-- Adjust GSAP animations in `src/components/`.
-- Edit Tailwind styles in `src/styles/`.
-
 ## 📜 License
 This project is licensed under the **MIT License**.
 
-## 🤝 Contributing
-Pull requests are welcome! Feel free to fork the repository and submit improvements.
-
-## 📬 Contact
-For any inquiries, reach out via:
-- GitHub: [your-username](https://github.com/your-username)
-- Email: your-email@example.com
-
-Enjoy the game! 🎮🔥
 

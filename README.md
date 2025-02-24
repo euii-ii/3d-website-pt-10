@@ -1,4 +1,4 @@
-# # Gaming Website
+# Gaming Website
 
 Welcome to the **Gaming Website**! This project is a visually immersive gaming-themed website built using **GSAP**, **Three.js**, and **Tailwind CSS** to deliver an engaging user experience with stunning animations and 3D effects.
 
@@ -22,7 +22,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone 
+   git clone https://github.com/euii-ii/3d-website-pt-12.git
    cd gaming-website
    ```
 
